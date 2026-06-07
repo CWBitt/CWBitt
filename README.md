@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻Hi 👋, I'm Lucas Blein</h1>
-<h3 align="center">A developer from Brazil who loves to code.</h3>
+<h3 align="center">A developer from Curitiba/Brazil who loves to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CWBitt&label=Profile%20views&color=0e75b6&style=flat" alt="mucharski" /> </p>
 
